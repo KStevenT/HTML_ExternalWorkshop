@@ -6,7 +6,58 @@
     </title>
     <meta charset="utf-8"/>
 </head>
-<body>
+<body><!doctype html>
+    <html>
+    <head>
+        <title>
+            Portfolio
+        </title>
+        <meta charset="utf-8"/>
+    </head>
+    <body>
+        <img src="Dimanapun.jpg" alt="Ini foto saya kok" width="104" height="142">
+    
+        <h1>Suramba Surambi</h1>
+        <p><a href="https://www.google.com">About me</a>&nbsp; <a href="https://www.youtube.com">Experience</a>&nbsp; <a href="https://www.instagram.com">Contact me</a></p>
+    
+        <h1>About me</h1>
+        <h4>Just an NTU student...</h4>
+        <p>Hello! I am Suramba Surambi and I am studying Computer Engineering at NTU! Currently reserves as PINTU IT subcommitee</p><br>
+    
+        <h4>Life at NTU...</h4><br>
+    
+        <table><th>NTU Bingo</th>
+        <tr><td>daf</td><td>asdf</td><td>adsfadf</td></tr>
+        <tr><td>daf</td><td>asdf</td><td>adsfadf</td></tr>
+        <tr><td>daf</td><td>asdf</td><td>adsfadf</td></tr>
+        </table>
+    
+        <h1>Experience</h1>
+        <ul>
+            <li>Academics</li>
+            <ol>
+                <li>NTU : CGPA 4.99/5.00</li>
+                <li>SMA Suka Suka : Rerata UN 100/100</li>
+            </ol>
+            <br>
+            <li>Internship</li>
+            <ol>
+                <li>Google Software Engineering Intern</li>
+                <li>Microsoft Software Engineering Intern</li>
+            </ol>
+            <br>
+            <li>CCA</li>
+            <ol>
+                <li>PINTU IT</li>
+            </ol>
+        </ul>
+    
+        <h1>Contact me</h1>
+    
+        <p><a href="https://www.instagram.com">NTUSU</a>&nbsp;<a href="https://www.google.com">Email</a></p>
+    
+    </body>
+    </html>
     
     <h1>Suramba Surambi</h1>
     <p><a href="www.google.com">About me</a>&nbsp; <a href="www.youtube.com">Experience</a>&nbsp; <a href="www.instagram.com">Contact me</a></p>

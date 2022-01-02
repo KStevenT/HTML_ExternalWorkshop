@@ -10,7 +10,7 @@
         <img src="Dimanapun.jpg" alt="Ini foto saya kok" width="104" height="142">
     
         <h1>Suramba Surambi</h1>
-        <p><a href="https://www.google.com">About me</a>&nbsp; <a href="https://www.youtube.com">Experience</a>&nbsp; <a href="https://www.instagram.com">Contact me</a></p>
+        <p><a href="https://www.google.com" target="_blank">About me</a>&nbsp; <a href="https://www.youtube.com" target="_blank">Experience</a>&nbsp; <a href="https://www.instagram.com" target="_blank">Contact me</a></p>
     
         <h1>About me</h1>
         <h4>Just an NTU student...</h4>
@@ -46,7 +46,7 @@
     
         <h1>Contact me</h1>
     
-        <p><a href="https://www.instagram.com">NTUSU</a>&nbsp;<a href="https://www.google.com">Email</a></p>
+        <p><a href="https://www.instagram.com" target="_blank">NTUSU</a>&nbsp;<a href="https://www.google.com" target="_blank">Email</a></p>
     
     </body>
     </html>

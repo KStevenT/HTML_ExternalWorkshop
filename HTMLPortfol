@@ -18,11 +18,29 @@
     
         <h4>Life at NTU...</h4><br>
     
-        <table><th>NTU Bingo</th>
-        <tr><td>daf</td><td>asdf</td><td>adsfadf</td></tr>
-        <tr><td>daf</td><td>asdf</td><td>adsfadf</td></tr>
-        <tr><td>daf</td><td>asdf</td><td>adsfadf</td></tr>
-        </table>
+        <table>
+            <th>Life Timeline</th>
+            <tr>
+                <th>Stage of Life</th>
+                <th>Year</th>
+                <th>Location</th>
+            </tr>
+            <tr>
+                <td>Undergad   </td>
+                <td>2020-2024</td>
+                <td>Singapore</td>
+            </tr>
+            <tr>
+                <td>High School</td>
+                <td>2017-2020</td>
+                <td>Jakarta</td>
+           </tr>
+           <tr>
+            <td>Primary School</td>
+            <td>2010-2017</td>
+            <td>Toronto</td>
+       </tr>
+            </table>
     
         <h1>Experience</h1>
         <ul>

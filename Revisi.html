@@ -5,12 +5,14 @@
         Portfolio Example
     </title>
     <meta charset="utf-8"/>
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
     <body>
         <div class="container">
 
             <div id="Bio">
-                <img src="FotoSaya.jpg" alt="Ini foto saya kok" width="104" height="142">
+                <img src="FotoSaya.jpg" alt="Ini foto saya kok" width="104" height="142" id="profile_pict">
                 <h1>Suramba Surambi</h1>
                 <a href="#AboutMe">About me</a>
                 <a href="#Experience" >Experience</a>
@@ -22,12 +24,12 @@
                 <h1>About me</h1>
                 <h4>Just an NTU student...</h4>
                 <p>Hello! I am Suramba Surambi and I am studying Computer Engineering at NTU!
-                    Currently reserves as PINTU IT subcommitee</p><br>
+                    Currently reserves as PINTU IT subcommitee</p>
             
-                <h4>Life at NTU...</h4><br>
+                <h4>Life at NTU...</h4>
             
                 <table>
-                    <th>Life Timeline</th>
+                    <th colspan="3">Life Timeline</th>
                     <tr>
                         <th>Stage of Life</th>
                         <th>Year</th>
@@ -54,6 +56,7 @@
             <div id="Experience">
                 <hr>
                 <h1>Experience</h1>
+                <div class="experience_content">
                 <ul>
                     <li>Academics</li>
                     <ol>
@@ -72,13 +75,14 @@
                         <li>PINTU IT</li>
                     </ol>
                 </ul>
+                </div>
             </div>
 
             <div id="ContactMe">
                 <hr>
                 <h1>Contact me</h1>
-                <a href="https:///www.instagram.com/pintugram/" target="_blank">PINTU</a>
-                <a href="mailto:suramba@gmail.com" target="_blank">Email</a>
+                <a href="https:///www.instagram.com/pintugram/" target="_blank"><i class="fa fa-instagram"></i></a>
+                <a href="mailto:suramba@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
             </div>
         
         </div>
